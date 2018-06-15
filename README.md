@@ -6,7 +6,7 @@
 * [Jacob Felix]()
 * [Sam Hanson]()
 * [Nick Hein]()
-* [Candace Hill]()
+* [Candice Hill](https://github.com/485mariec)
 * [Britney Hu]()
 * [Kyle Munoz]()
 * [Daniel Reilly]()
