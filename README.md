@@ -4,7 +4,7 @@
 * [Justen Bertelsen]()
 * [Lian Byrne]()
 * [Jacob Felix]()
-* [Sam Hanson]()
+* [Sam Hanson](https://github.com/SH1618)
 * [Nick Hein]()
 * [Candace Hill]()
 * [Britney Hu]()
