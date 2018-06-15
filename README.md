@@ -7,7 +7,7 @@
 * [Sam Hanson](https://github.com/SH1618)
 * [Nick Hein]()
 * [Candice Hill](https://github.com/485mariec)
-* [Britney Hu]()
+* [Britney Hu](https://github.com/britneyhu0121)
 * [Kyle Munoz]()
 * [Daniel Reilly](https://github.com/TeamDaniel)
 * [Nathan Rogers]()
