@@ -1,6 +1,6 @@
 # GitHub-Profiles
 
-* [Kadin Backlund]()
+* [Kadin Backlund](https://github.com/Kadin-Backlund)
 * [Justen Bertelsen]()
 * [Lian Byrne]()
 * [Jacob Felix]()
