@@ -5,7 +5,7 @@
 * [Liam Byrne](https://github.com/liamjbyrne007)
 * [Jacob Felix]()
 * [Sam Hanson](https://github.com/SH1618)
-* [Nick Hein]()
+* [Nick Hein](https://github.com/NickHein)
 * [Candice Hill](https://github.com/485mariec)
 * [Britney Hu](https://github.com/britneyhu0121)
 * [Kyle Munoz]()
