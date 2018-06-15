@@ -12,5 +12,5 @@
 * [Kyle Munoz]()
 * [Daniel Reilly]()
 * [Nathan Rogers]()
-* [Reiley Rollins]()
+* [Reiley Rollins](https://github.com/r-rollins)
 * [Fernando Sanchez]()
