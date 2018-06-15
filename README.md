@@ -2,7 +2,7 @@
 
 * [Kadin Backlund]()
 * [Justen Bertelsen]()
-* [Lian Byrne]()
+* [Liam Byrne](https://github.com/liamjbyrne007)
 * [Jacob Felix]()
 * [Sam Hanson]()
 * [Nick Hein]()
