@@ -5,7 +5,7 @@
 * [Lian Byrne]()
 * [Jacob Felix]()
 * [Sam Hanson]()
-* [Nick Hein]()
+* [Nick Hein](https://github.com/NickHein)
 * [Candace Hill]()
 * [Britney Hu](https://github.com/britneyhu0121)
 * [Kyle Munoz]()
