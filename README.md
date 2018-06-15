@@ -10,7 +10,7 @@
 * [Candice Hill](https://github.com/485mariec)
 * [Britney Hu]()
 * [Kyle Munoz]()
-* [Daniel Reilly]()
+* [Daniel Reilly](https://github.com/TeamDaniel)
 * [Nathan Rogers]()
 * [Reiley Rollins](https://github.com/r-rollins)
 * [Fernando Sanchez]()
